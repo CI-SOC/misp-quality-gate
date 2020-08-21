@@ -8,6 +8,7 @@
 # Instructions:
 # Setup virtualenv called venv in the root of the path: e.g. python3 -m venv /path/to/new/virtual/environment
 #  cd /opt/misp-quality-gate
-#  python3 -m venv /opt/misp-quality-gate
+#  python3 -m venv /opt/misp-quality-gate/venv
+# pip3 install requests
   
 #  cronjob.sh - can be setup to run periodically
